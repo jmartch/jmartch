@@ -1,8 +1,11 @@
 - 👋 Hi, I’m @jmartch
+- 🏫 I'm studying system engenire in Universidad del Norte
 - 👀 I’m interested in Ai, WebScrapping , and Data Analytics
 - 🌱 I’m currently learning Deep learning and stadistics
 - 😄 Pronouns: He/She
+- 📑ENG/SPA
 - ⚡ Fun fact: Im from Venezuela
+
 
 <!---
 jmartch/jmartch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
