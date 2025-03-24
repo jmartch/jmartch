@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Deep learning and stadistics
 - 😄 Pronouns: He/She
 - 📑ENG/SPA
-- ⚡ Fun fact: Im from Venezuela
+
 
 
 <!---
